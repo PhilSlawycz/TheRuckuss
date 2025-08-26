@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="TacticsControlsResource" load_steps=2 format=3 uid="uid://w222wq0bsj30"]
+
+[ext_resource type="Script" uid="uid://bx1dmqh8cyhmi" path="res://data/models/view/control/tactics/t_ctrl_res.gd" id="1_oeap1"]
+
+[resource]
+script = ExtResource("1_oeap1")
+is_joystick = false
+input_hints_folded = false
